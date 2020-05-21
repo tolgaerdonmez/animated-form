@@ -1,0 +1,21 @@
+.sGrad0 {
+	box-shadow: inset 0 30px rgba(0, 0, 0, 0.536);
+	transition: box-shadow 500ms;
+}
+
+.sGrad1 {
+	box-shadow: none;
+	background: linear-gradient(to right, red, orangered);
+}
+.sGrad2 {
+	box-shadow: none;
+	background: linear-gradient(to right, orangered, yellow);
+}
+.sGrad3 {
+	box-shadow: none;
+	background: linear-gradient(to right, yellow, yellowgreen);
+}
+.sGrad4 {
+	box-shadow: none;
+	background: linear-gradient(to right, yellowgreen, green);
+}
